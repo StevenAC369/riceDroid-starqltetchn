@@ -1,0 +1,11 @@
+<?version xml="1.0" codification="UTF-8"?>
+<manifest>
+
+  <!--Trees-->
+  <project path="device/starqlte/android name=StevenAC369/android_device_startqltech_G.git" remote="github" revision="riceDroid-4.5" />
+  <project path="device/starqlte/android_device_samsung_sdm845-common name="StevenAC369/android_device_samsung_sdm845-common name.git" remote="github" revision="riceDroid-4.5" />
+  <project path="device/android_vendor_samsung_sdm845-common="StevenAC369/android_vendor_samsung_sdm845-common" remote="github" revision="master" />
+  <project path="device/android_kernel_samsung_sdm845="StevenAC369/device/android_kernel_samsung_sdm845 remote="github" revision="riceDroid-4.5" />
+  
+</manifest>  
+  
