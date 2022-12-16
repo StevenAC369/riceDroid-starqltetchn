@@ -4,7 +4,7 @@ repo sync -c --no-clone-bundle --no-tags --optimized-fetch --prune --force-sync 
 
 # build rom
 source build/envsetup.sh
-lunch derp_startqltechn-user
+lunch derp_starqltechn-user
 export TZ=Europe/Spanish #put before last build command
 mka derp
 
